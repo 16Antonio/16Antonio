@@ -24,15 +24,6 @@ Soy un desarrollador en formación apasionado por la tecnología, la programaci�
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 
----
-
-## 💡 Objetivos
-
-- Dominar Java y SQL para las prácticas de DAM
-- Crear un portafolio sólido de proyectos
-- Aprender frameworks como Spring y React en el futuro
-
----
 
 
 ## 📬 Contacto
