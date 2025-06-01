@@ -24,6 +24,16 @@ Soy un desarrollador en formación apasionado por la tecnología, la programaci�
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 
 
+---
+
+## 📈 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=16Antonio&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=16Antonio&layout=compact&theme=tokyonight" height="150" />
+</div>
+
+---
 
 
 ## 📬 Contacto
